@@ -111,8 +111,8 @@ bun: Uses Bun.file().text() to load file as string, then processes similar to bu
 summary.csv 
  
 country,total_revenue 
-NG,123,456.78 
-GH,234,567.89 
-KE,345,678.90 
-ZA,456,789.01 
-MA,567,890.12 
+NG,12,345,678.89 
+GH,23,456,789.89 
+KE,34,567,879.90 
+ZA,45,678,987.01 
+MA,56,789,000.12 
