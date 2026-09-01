@@ -23,7 +23,7 @@ and price.
 ├── parse-buffer.js # Reads the CSV generated with Buffer
 ├── parse-bun.js # Reads the CSV generated with Bun
 ├── parse-stream.js # Reads the CSV generated with Stream
-└── README.md
+├── README.md
 ├── sales-with-buffer.csv # Generated CSV sales data (created by Buffer scripts)
 ├── sales-with-bun.csv # Generated CSV sales data (created by Bun scripts)
 ├── sales-with-stream.csv # Generated CSV sales data (created by Stream scripts)
