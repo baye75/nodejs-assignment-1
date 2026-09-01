@@ -34,8 +34,6 @@ and price.
 ├── summary-stream.csv # Output summary (created by Stream scripts)
 ├── summary-stream.js # Aggregate and write summary using Stream
  
-text 
- 
 ## Prerequisites 
  
 - **Node.js** (v14 or later) for buffer and stream scripts. 
